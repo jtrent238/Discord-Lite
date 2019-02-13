@@ -1,0 +1,10 @@
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\bin\Debug\DiscordLite.exe.config
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\bin\Debug\DiscordLite.exe
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\bin\Debug\DiscordLite.pdb
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.csprojAssemblyReference.cache
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.Main.resources
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.Properties.Resources.resources
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.csproj.GenerateResource.cache
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.csproj.CoreCompileInputs.cache
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.exe
+C:\Users\jtren\git\Discord-Lite\DiscordLite\DiscordLite\obj\Debug\DiscordLite.pdb
